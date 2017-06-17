@@ -7,7 +7,12 @@ body {
 }
 
 .spacer {
-    height: 20px;
+    height: 10px;
+}
+
+.rate-bar,
+.addRsrc-form {
+    margin-top: 15px;
 }
 
 .nav-left .searchbox {
@@ -45,6 +50,10 @@ p.event-item {
     border-radius: 3px;
     padding: 6px 12px;
     color: #69707a;
+}
+
+.field .help {
+    display: none; /* A gérer dans le composant */
 }
 
 /*.badge{*/

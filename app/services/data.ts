@@ -7,6 +7,6 @@ export class RDocument {
 }
 
 export class RVideo {
-    id: string; //hash of the video
+    id: string; // hash of the video
     name: string;
 }
